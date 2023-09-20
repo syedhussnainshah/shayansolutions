@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Shayan Solutions</title>
+    <title>Shayan Solutionss</title>
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/fontawesome/fontawesome-free-6.4.2-web/css/all.min.css') }}">
@@ -29,5 +29,5 @@
     <script src="{{ asset('assets/Slider/OwlCarousel2-2.3.4/dist/owl.carousel.min.js') }}"></script>
 
 </body>
-
+51998364
 </html>
