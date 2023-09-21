@@ -5,6 +5,7 @@ use App\Http\Controllers\Admin\Api\InspireWorkController;
 use App\Http\Controllers\Admin\Api\ProfilesController;
 use App\Http\Controllers\Admin\Api\SuccessStoriesController;
 use App\Http\Controllers\Admin\Api\TechnologyController;
+use App\Http\Controllers\Website\FormsController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -32,3 +33,4 @@ Route::get('profiles', [ProfilesController::class, 'index'])
     ->name('profiles.index');
 Route::get('inspire-work', [InspireWorkController::class, 'index'])
     ->name('inspire-work.index');
+Route::post('lets-discuss-your-project', [FormsController::class, 'store'])->name('lets-discuss-your-project.store');

@@ -12,7 +12,12 @@
                         <h2 class="p-0 ms-0">Simple Solutions for Complex Connections
                         </h2>
                         <!-- <br> -->
-                        <p style="margin-top: 25px;" class="p-0 ms-0">
+                        <p style="margin-top: 25px;max-width:  530.626px;color: #05000B;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 160%;" class="p-0 ms-0">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed donec gravida feugiat neque, ipsum
                             faucibus. Pharetra vel suspendisse mi odio a velit feugiat sapien.
                         </p>

@@ -4,8 +4,8 @@
             <div class="d-flex justify-content-between">
                 <h2 id="Our-Success-Stories-Title" class="mb-0 text-white">Our Success Stories</h2>
                 <div class="btn-group slider-btn" style="margin-top: 119px;">
-                    <button class="custom-prev-success" @click="nextSlide"><i class="fa-solid fa-chevron-left"></i></button>
-                    <button class="custom-next-success" @click="prevSlide"><i
+                    <button class="custom-prev-success" @click="prevSlide"><i class="fa-solid fa-chevron-left"></i></button>
+                    <button class="custom-next-success" @click="nextSlide"><i
                             class="fa-solid fa-chevron-right"></i></button>
                 </div>
             </div>

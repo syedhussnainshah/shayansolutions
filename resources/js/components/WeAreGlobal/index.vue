@@ -35,11 +35,11 @@
                         <li class="ProfileLi" v-for="(profile, index) in profiles" :key="index">
                             <img :src="profile.image" alt="">
 
-                            <div class="card p-2 d-flex justify-content-start aling-items-start"
+                            <div class="card p-2 pb-3  d-flex justify-content-center aling-items-start"
                                 style="border-radius: 14px;margin-top: -15px;">
-                                <h3 class="no-wrap  w-100">{{ profile.title }}</h3>
-                                <ul class="p-0 d-flex justify-content-center">
-                                    <li class="mb-0 mt-0 p-0" v-for="(tech, techIndex) in profile.language"
+                                <h3 class="no-wrap   w-100">{{ profile.title }}</h3>
+                                <ul class="p-0 d-flex align-items-center justify-content-center ">
+                                    <li class="mb-0  mt-0 p-0" v-for="(tech, techIndex) in profile.language"
                                         :key="techIndex">{{ tech
                                         }}</li>
                                 </ul>

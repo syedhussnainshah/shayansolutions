@@ -2,7 +2,7 @@
     <section id="InspiringWorkmadeForOurTop-Tiers" class="d-flex justify-content-center">
         <div class="container-fluid p-4  mb-0  " style="max-width: 1356px;">
             <div class="row p-0 mb-0  w-100 d-flex justify-content-center align-items-center">
-                <div class="col-md-6 " id="InspiringSectionHeaderContent">
+                <div class="col-md-6  " id="InspiringSectionHeaderContent">
                     <h2 id="Inspiring-Work-Title">Inspiring work made for our top-tiers</h2>
                     <p>
                         Collaborate over projects with your team and clients with your team and clients optimised
@@ -10,9 +10,9 @@
                         mobile and tablet don't let slow
                     </p>
                 </div>
-                <div class="col-md-6 d-flex justify-content-end align-items-center">
+                <div class="col-md-6 d-flex justify-content-end align-items-center ">
 
-                    <a href="" style="margin-top: 116px;text-decoration: none;">See More <i
+                    <a href="" style="text-decoration: none;margin-top: 49px;">See More <i
                             class="fa-solid fa-chevron-right"></i></a>
                 </div>
             </div>

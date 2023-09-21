@@ -15,7 +15,7 @@
                                 <p>{{ point }}</p>
                             </li>
                         </ul>
-                        <button class="btn  GetStartedBtn"> Get Started</button>
+                        <button class=" GetStartedBtn" style="border: 1px solid #D9D9D9"> Get Started</button>
                         <!-- <a href="" class="getStartedBtn btn text-center">Get Started</a> -->
                     </div>
                 </div>
