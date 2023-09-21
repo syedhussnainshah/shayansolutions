@@ -8,7 +8,7 @@
             </div>
             <div class="row  " style="margin-top: 63px;">
                 <div class="col-md-4" id="Footer-Col-1">
-                    <h2>Stay Connectedsss</h2>
+                    <h2>Stay Connectedsss h</h2>
                     <p class="p-0" style="width: 295.487px;
 height: 40.539px;">Contact us today to get market competitive quotes and get your project started.</p>
 
