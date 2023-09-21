@@ -4,11 +4,11 @@
         <div class="container-fluid p-5 " style="min-height: 503px;max-width: 1490px;">
             <div class="container-fluid p-0 ">
 
-                <img src="http://127.0.0.1:8000/storage/images/logo.png" style=" margin-top: 71px;" alt="">
+                <img src="https://sub-shayansolution.toptrendingsite.com/storage/images/logo.png" style=" margin-top: 71px;" alt="">
             </div>
             <div class="row  " style="margin-top: 63px;">
                 <div class="col-md-4" id="Footer-Col-1">
-                    <h2>Stay Connected</h2>
+                    <h2>Stay Connecteds</h2>
                     <p class="p-0" style="width: 295.487px;
 height: 40.539px;">Contact us today to get market competitive quotes and get your project started.</p>
 
