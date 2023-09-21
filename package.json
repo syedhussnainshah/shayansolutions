@@ -13,6 +13,7 @@
     "dependencies": {
         "@vitejs/plugin-vue": "^4.3.4",
         "owl.carousel": "^2.3.4",
+        "sweetalert2": "^11.7.28",
         "swiper": "^10.2.0",
         "ui": "^0.2.4",
         "vue": "^3.2.36",
